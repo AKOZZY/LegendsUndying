@@ -1,0 +1,69 @@
+﻿  Button.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Button.cpp(26,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Button.cpp(26,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Button.cpp(32,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Button.cpp(32,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Collider.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Collider.cpp(52,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Collider.cpp(52,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Collider.cpp(52,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Collider.cpp(52,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DataSaving.cpp
+  Entity.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Entity.cpp')
+  
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(29,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(29,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(30,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(30,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(31,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(31,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.cpp(45,8): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(307,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(475,41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(476,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(478,41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(479,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(625,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HealthPotion.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'HealthPotion.cpp')
+  
+  Inventory.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Inventory.cpp')
+  
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Inventory.cpp(13,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Inventory.cpp(22,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  InventorySlot.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'InventorySlot.cpp')
+  
+  Item.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Item.cpp')
+  
+  main.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Player.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+  Projectile.cpp
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Entity.h(44,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Projectile.cpp')
+  
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Projectile.cpp(24,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Projectile.cpp(24,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Weapon.cpp
+  Generating Code...
+C:\Users\kenny\Documents\GitHub\LegendsUndying\RayLibWithGUI\Game.cpp(471,1): warning C4715: 'Game::OnCollision': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ExampleProjectGUI.vcxproj -> C:\Users\kenny\Documents\GitHub\LegendsUndying\x64\Debug\ExampleProjectGUI.exe
